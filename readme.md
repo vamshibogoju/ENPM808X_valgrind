@@ -13,7 +13,7 @@ mkdir build
 cd build
 cmake ..
 make
-	
+```	
 
 ## Valgrind Commands 
 
